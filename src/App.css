@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+.box {
+  width: 300px;
+  
+}h1 {
+    font-size: 20px;
+    margin: 0 0 1rem 0;
+  }
 .App-logo {
   height: 40vmin;
   pointer-events: none;
